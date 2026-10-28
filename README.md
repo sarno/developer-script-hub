@@ -1,4 +1,4 @@
-# 🛠️ AppKit UI — Developer Component Workbench & Script Hub
+# 🛠️ developer-script-hub — Vue 3.5 Component Workbench & Script Hub
 
 <p align="center">
   <img src="./public/favicon.svg" width="64" height="64" alt="AppKit UI Logo" />
