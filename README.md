@@ -17,6 +17,10 @@
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License" /></a>
 </p>
 
+<p align="center">
+  <img src="./assets/preview.jpg" alt="Developer Script Hub Preview" width="680" />
+</p>
+
 > [!TIP]
 > ### 🛠️ FUNGSI & KEGUNAAN FOLDER INI:
 > **`apps/developer-script-hub`** adalah **Katalog Komponen & Pegangan Programmer untuk Mengambil Script**.
