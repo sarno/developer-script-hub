@@ -17,11 +17,18 @@
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License" /></a>
 </p>
 
+> [!TIP]
+> ### 🛠️ FUNGSI & KEGUNAAN FOLDER INI:
+> **`apps/developer-script-hub`** adalah **Katalog Komponen & Pegangan Programmer untuk Mengambil Script**.
+> - **Untuk siapa?** Programmer dan frontend engineer yang sedang mengoding fitur baru.
+> - **Apa isinya?** Dokumentasi interaktif 22+ komponen mobile, preview multi-device (Desktop / Tablet / iPhone 390px), dan tombol 1-klik **"Ambil Script"** untuk copy paste kode `<template>` & `<script setup lang="ts">`.
+> - **Bedanya dengan Mobile Web Starter?** Folder ini khusus alat bantu development (seperti Storybook). Untuk melihat aplikasi mobile yang utuh dan siap dirilis ke user, buka **`apps/mobile-web-starter`**.
+
 ---
 
 ## 🌟 Overview
 
-**AppKit UI** is a dedicated developer workbench and documentation portal inspired by Storybook and shadcn/ui, crafted specifically for mobile web primitives.
+**AppKit Developer Script Hub** is a dedicated developer workbench and documentation portal inspired by Storybook and shadcn/ui, crafted specifically for mobile web primitives.
 
 It allows frontend developers and engineers to:
 1. **Browse 22+ Production-Ready Mobile Components** organized into 6 intuitive categories.

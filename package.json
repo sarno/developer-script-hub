@@ -1,9 +1,9 @@
 {
-  "name": "appkit-ui",
+  "name": "appkit-developer-script-hub",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "AppKit UI - Developer Component Workbench, Interactive Playground & Script Reference",
+  "description": "AppKit Developer Script Hub - Interactive Component Workbench, Playground & Script Reference",
   "scripts": {
     "dev": "vite --port 3001",
     "build": "vue-tsc --noEmit && vite build",
